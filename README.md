@@ -41,111 +41,68 @@ Performed using Power Query:
 
 
 ## 🔍 Exploratory Data Analysis (EDA)
-✅ 1. Highest Selling Model BMW 7 Series
+1. Highest Selling Model BMW 7 Series
 
-  Sales Volume: 23,786,466
+  	* Sales Volume: 23,786,466
+  	* Revenue: 1,790,070,249,282 
 
-  Revenue: 1,790,070,249,282 
-  <br>
+2. Sales Trend Over the Years
+	* Sales remained stable with minor fluctuations between 2010–2024.
 
+3. Regional Performance
+	* Asia leads with 16.96% of total sales & 17.10% of total revenue.
+	* Europe and North America follow.
 
-📈 2. Sales Trend Over the Years
+4. Most Popular Car Colours
+	* Red and Silver are highest in demand.
 
-Sales remained stable with minor fluctuations between 2010–2024.
-(Chart reference: Sales trends over year, page 2)
+5. Fuel Type Preference
+	* Customer prefer Hybrid fuel type most. Followed by Petrol, Electric, Diesel.
 
+6. Transmission Preference
+	* Manual transmission is preferred over automatic.
 
-🌍 3. Regional Performance
+7. Engine Size Popularity
+	* 2–4 litre engines dominate sales.
 
-Asia leads with
+8. Influence of Price & Engine Size
+	* Price range $50,000–$100,000 contributes to 55% of total sales.
+	* Mid-sized engines show highest performance.
 
-16.96% of total sales
+9. YOY Sales & Revenue Trends
+   * Graphs on page 3 display fluctuations across years.
 
-17.10% of total revenue
+Regional Averages
 
-Europe and North America follow.
+| Region        | Sales Volume | Avg Price (USD) |
+| ------------- | ------------ | --------------- |
+| Africa        | 41,565,252   | 74,885.77       |
+| Asia          | 42,974,277   | 75,554.93       |
+| Europe        | 42,555,138   | 74,988.36       |
+| Middle East   | 42,326,620   | 74,726.78       |
+| North America | 42,402,629   | 75,070.05       |
+| South America | 41,551,818   | 74,973.60       |
+|               |              |                 |
 
-
-🎨 4. Most Popular Car Colours
-
-Red and Silver are highest in demand.
-
-
-⛽ 5. Fuel Type Preference
-
-(Customer preference chart available on dashboard image, page 3)
-
-
-⚙️ 6. Transmission Preference
-
-Manual transmission is preferred over automatic.
-
-
-🚗 7. Engine Size Popularity
-
-2–4 litre engines dominate sales.
-
-
-💸 8. Influence of Price & Engine Size
-
-Price range $50,000–$100,000 contributes to 55% of total sales.
-
-Mid-sized engines show highest performance.
-
-
-📊 9. YOY Sales & Revenue Trends
-
-Graphs on page 3 display fluctuations across years.
-
-
-🏷️ 10. Regional Averages
-Region	Sales Volume	Avg Price (USD)
-Africa	41,565,252	74,885.77
-Asia	42,974,277	75,554.93
-Europe	42,555,138	74,988.36
-Middle East	42,326,620	74,726.78
-North America	42,402,629	75,070.05
-South America	41,551,818	74,973.60
 		
 📊 Dashboard Preview
 
-The Excel dashboard includes:
 
-KPIs (Total Sales Volume, Total Revenue, Avg Price, Revenue per Car)
+## 💡 Key Insights
 
-Top 5 Models
+* BMW 7 Series is the highest-performing model in both sales and revenue.
 
-Sales Trends
+* Asia is the strongest market with the largest contribution.
 
-Region-Wise Sales
+* Diesel and Petrol vehicles dominate, though Electric & Hybrid are growing.
 
-Sales by Fuel Type
-
-Transmission Breakdown
-
-Popular Colours
-(Dashboard screenshot: page 3)
+* Sales trends remain mostly stable across the years.
 
 
-💡 Key Insights
+## 📘 Conclusion
 
-BMW 7 Series is the highest-performing model in both sales and revenue.
-
-Asia is the strongest market with the largest contribution.
-
-Diesel and Petrol vehicles dominate, though Electric & Hybrid are growing.
-
-Sales trends remain mostly stable across the years.
-
-
-📘 Conclusion
-
-BMW’s growth is driven by:
-
-Premium luxury segment (7 Series)
-
-Mid-priced vehicles ($50k–$100k)
-
-Customer preference for manual transmission, bold colours, and 2–4 litre engines
-
-There is significant opportunity for expanding electric and hybrid models, especially in fast-growing Asian markets.
+BMW’s growth is driven by: 
+* Premium luxury segment (7 Series)
+* Mid-priced vehicles ($50k–$100k)
+* Customer preference for manual transmission, bold colours, and 2–4 litre engines
+* There is significant opportunity for expanding electric and hybrid models, especially in fast-growing Asian markets.
