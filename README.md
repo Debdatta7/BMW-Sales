@@ -85,8 +85,9 @@ Regional Averages
 |               |              |                 |
 
 		
-📊 Dashboard Preview
+## 📊 Dashboard Preview
 
+![dashboard](https://github.com/Debdatta7/BMW-Sales/blob/main/dashboar.JPG)
 
 ## 💡 Key Insights
 
